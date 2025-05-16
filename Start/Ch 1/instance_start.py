@@ -8,6 +8,7 @@ class Book:
     def __init__(self, title):
         self.title = title
         # TODO: add properties
+        self.
 
     # TODO: create instance methods
 
